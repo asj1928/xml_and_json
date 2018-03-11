@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml&amp;json.iml" filepath="$PROJECT_DIR$/.idea/modules/xml&amp;json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml&amp;json_main.iml" filepath="$PROJECT_DIR$/.idea/modules/xml&amp;json_main.iml" group="xml&amp;json" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml&amp;json_test.iml" filepath="$PROJECT_DIR$/.idea/modules/xml&amp;json_test.iml" group="xml&amp;json" />
     </modules>
   </component>
 </project>
