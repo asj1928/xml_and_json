@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<class>
+    <employee empC="123">
+        <firstname>kamran</firstname>
+        <lastname>khan</lastname>
+        <nickname>kamu</nickname>
+        <marks>80</marks>
+    </employee>
+    <employee empC="456">
+        <firstname>vijay</firstname>
+        <lastname>Gupta</lastname>
+        <nickname>vinni</nickname>
+        <marks>55</marks>
+    </employee>
+    <employee empC="789">
+        <firstname>harinder</firstname>
+        <lastname>singn</lastname>
+        <nickname>harry</nickname>
+        <marks>90</marks>
+    </employee>
+</class>
